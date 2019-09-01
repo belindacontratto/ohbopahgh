@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sooquaith.realdebtclock.us/sitemap.xml
